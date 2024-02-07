@@ -1,6 +1,4 @@
-
-
-
+A round of applause for Ratan Tata, the titan of Indian industry. Your leadership and philanthropy have touched countless lives, lifting communities and driving progress. You're like the beacon of hope in the business world, showing us that success is not just about profits but about making a positive impact. Thank you for your extraordinary contributions to our nation's growth and development.
 
 
 ### Big thanks to you sir for your Golang series. And sorry to disturb you about this pull request.
